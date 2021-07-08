@@ -1,0 +1,17 @@
+body {
+    background-color: silver;
+}
+h1 {
+    color: cornflowerblue;
+    font-size: 24px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+img {
+    width: 200px;
+}
+.text{
+    background-color: antiquewhite;
+    font-family: "Bookman Old Style";
+    text-align: justify;
+}
